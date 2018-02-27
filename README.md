@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/50eee79ec5594262b220648d28237532)](https://app.codacy.com/app/tomguim/mezo?utm_source=github.com&utm_medium=referral&utm_content=tomguim/mezo&utm_campaign=badger)
 # mezo [![Build Status](https://img.shields.io/travis/tomguim/mezo/master.svg?style=flat-square)](https://travis-ci.org/tomguim/mezo) ![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
